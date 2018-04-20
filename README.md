@@ -332,3 +332,5 @@ Get breaking news headlines with short description filtered by your interests an
 [Online Wallpapers](https://github.com/mrf345/online-wallpapers) <br />
 [Mohamed Feddad](https://github.com/mrf345) <br />
 Android wallpapers manager built with react-native and utlizes reddit api.
+
+[Stocks In Play](https://stocksinplay.com) - Social Trading for the Australian Stock Exchange
